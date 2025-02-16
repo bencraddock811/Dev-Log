@@ -4,4 +4,4 @@
 
 ## Log Entries
 
-20250216- Wrote notes for .md language to compile learning and create reference.
+20250216- Wrote [notes](Notes/Markdown.md) for .md language to compile learning and create reference.
