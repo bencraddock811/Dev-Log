@@ -6,4 +6,4 @@ The [IMB website](https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-mark
 
 ## Markdown Syntax
 
-Mardown simplfies sytax from HTML. For example, where in HTML a h1 would be entered as <h1>Text</h1>, in markdown, the correct sytax would be #Text.
+Mardown simplfies sytax from HTML. For example, where in HTML a h1 would be entered as `<h1>Text</h1>`, in markdown, the correct sytax would be #Text.
